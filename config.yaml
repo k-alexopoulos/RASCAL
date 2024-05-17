@@ -40,16 +40,16 @@ reanalysis_variable_levels:
   - ['129', '850']
 
 # Reanalysis domain
-reanalysis_min_lat: 20
-reanalysis_max_lat: 80
-reanalysis_min_lon: -60
-reanalysis_max_lon: 20
+reanalysis_min_lat: 33.1
+reanalysis_max_lat: 43.9
+reanalysis_min_lon: 17.6
+reanalysis_max_lon: 28.3
 
 # Synoptic predictor
-predictor_lat_min: 33
-predictor_lat_max: 48
-predictor_lon_min: -15
-predictor_lon_max: 1.5
+predictor_lat_min: 33.1
+predictor_lat_max: 43.9
+predictor_lon_min: 17.6
+predictor_lon_max: 28.3
 
 predictor_grouping: "12hour_1D_mean"  # '1D_mean'
 
